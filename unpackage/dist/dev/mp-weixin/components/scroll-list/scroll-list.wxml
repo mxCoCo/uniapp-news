@@ -1,0 +1,1 @@
+<view class="scroll-content"><scroll-view class="scroll-list" scroll-y="true"><view><slot></slot></view></scroll-view></view>
